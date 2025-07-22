@@ -1,0 +1,59 @@
+[
+    {
+      "name": "id1",
+      "filename_stl": "UnseenIndenters/id1.STL",
+      "filename_vtk": "UnseenIndenters/id1.vtk",
+      "translation": [0, 10.0, 5.05],
+      "orientation": [0, 0, 0]
+    },
+    {
+      "name": "id2",
+      "filename_stl": "UnseenIndenters/id2.STL",
+      "filename_vtk": "UnseenIndenters/id2.vtk",
+      "translation": [0, 10.0, 5.05],
+      "orientation": [0, 0, 0]
+    },
+    {
+      "name": "id3",
+      "filename_stl": "UnseenIndenters/id3.STL",
+      "filename_vtk": "UnseenIndenters/id3.vtk",
+      "translation": [0, 10.0, 5.05],
+      "orientation": [0, 0, 0]
+    },
+    {
+      "name": "id4",
+      "filename_stl": "UnseenIndenters/id4.STL",
+      "filename_vtk": "UnseenIndenters/id4.vtk",
+      "translation": [0, 10.0, 4.05],
+      "orientation": [0, 0, 0]
+    },
+    {
+      "name": "id5",
+      "filename_stl": "UnseenIndenters/id5.STL",
+      "filename_vtk": "UnseenIndenters/id5.vtk",
+      "translation": [0, 10.0, 5.05],
+      "orientation": [0, 0, 0]
+    },
+    {
+      "name": "id6",
+      "filename_stl": "UnseenIndenters/id6.STL",
+      "filename_vtk": "UnseenIndenters/id6.vtk",
+      "translation": [0, 10.0, 5.05],
+      "orientation": [0, 0, 0]
+    },
+    {
+      "name": "id7",
+      "filename_stl": "UnseenIndenters/id7.STL",
+      "filename_vtk": "UnseenIndenters/id7.vtk",
+      "translation": [0, 10.0, 5.05],
+      "orientation": [0, 0, 0]
+    },
+    {
+      "name": "id8",
+      "filename_stl": "UnseenIndenters/id8.STL",
+      "filename_vtk": "UnseenIndenters/id8.vtk",
+      "translation": [0, 10.0, 5.05],
+      "orientation": [0, 0, 0]
+    }
+      
+]
