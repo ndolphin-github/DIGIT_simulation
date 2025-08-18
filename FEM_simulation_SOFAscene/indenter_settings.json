@@ -1,0 +1,558 @@
+[
+    {
+      "name": "round",
+      "filename_stl": "Indenter/round.STL",
+      "filename_vtk": "Indenter/round.vtk",
+      "translation": [1.438, 11.625, 2.05],
+      "scale": [0.001, 0.001, 0.001],
+      "orientation": [0, 0, 0]
+    },
+    {
+      "name": "square",
+      "filename_stl": "Indenter/square.STL",
+      "filename_vtk": "Indenter/square.vtk",
+      "translation": [0.312, 11.156, 2.05],
+      "scale": [0.001, 0.001, 0.001],
+      "orientation": [0, 0, 0]
+    },
+    {
+      "name": "edge",
+      "filename_stl": "Indenter/edge.STL",
+      "filename_vtk": "Indenter/edge.vtk",
+      "translation": [0.625, 11.812, 2.05],
+      "scale": [0.001, 0.001, 0.001],
+      "orientation": [0, 0, 90]
+    },
+    {
+      "name": "sphere",
+      "filename_stl": "Indenter/sphere.STL",
+      "filename_vtk": "Indenter/sphere.vtk",
+      "translation": [1.844, 13.312, 2.05],
+      "scale": [0.001, 0.001, 0.001],
+      "orientation": [0, 0, 0]
+    },
+    {
+      "name": "multi",
+      "filename_stl": "Indenter/multi.STL",
+      "filename_vtk": "Indenter/multi.vtk",
+      "translation": [1.052, 11.854, 2.05],
+      "scale": [0.001, 0.001, 0.001],
+      "orientation": [0, 0, 90]
+    },
+    {
+      "name": "point1",
+      "filename_stl": "Indenter/round.STL",
+      "filename_vtk": "Indenter/round.vtk",
+      "translation": [1.128, 7.625, 2.05],
+      "scale": [0.001, 0.001, 0.001],
+      "orientation": [0, 0, 0]
+    },
+    {
+      "name": "point2",
+      "filename_stl": "Indenter/round.STL",
+      "filename_vtk": "Indenter/round.vtk",
+      "translation": [4.094, 6.688, 2.05],
+      "scale": [0.001, 0.001, 0.001],
+      "orientation": [0, 0, 0]
+    },
+    {
+      "name": "point3",
+      "filename_stl": "Indenter/round.STL",
+      "filename_vtk": "Indenter/round.vtk",
+      "translation": [-1.719, 7.125, 2.05],
+      "scale": [0.001, 0.001, 0.001],
+      "orientation": [0, 0, 0]
+    },
+    {
+      "name": "point4",
+      "filename_stl": "Indenter/round.STL",
+      "filename_vtk": "Indenter/round.vtk",
+      "translation": [2.312, 3.250, 2.05],
+      "scale": [0.001, 0.001, 0.001],
+      "orientation": [0, 0, 0]
+    },
+    {
+      "name": "point5",
+      "filename_stl": "Indenter/round.STL",
+      "filename_vtk": "Indenter/round.vtk",
+      "translation": [-2.750, 3.406, 2.05],
+      "scale": [0.001, 0.001, 0.001],
+      "orientation": [0, 0, 0]
+    },
+
+
+    {
+        "name": "point6",
+        "filename_stl": "Indenter/round.STL",
+        "filename_vtk": "Indenter/round.vtk",
+        "translation": [ 0.281,10.750, 2.05],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, 0]
+      },
+
+      {
+        "name": "point7",
+        "filename_stl": "Indenter/round.STL",
+        "filename_vtk": "Indenter/round.vtk",
+        "translation": [ 2.625, 10.938,2.1],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, 0]
+      },
+
+      {
+        "name": "sphere1",
+        "filename_stl": "Indenter/sphere.STL",
+        "filename_vtk": "Indenter/sphere.vtk",
+        "translation": [ 0.906, 12.250, 2.1],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, 0]
+      },
+
+      {
+        "name": "sphere2",
+        "filename_stl": "Indenter/sphere.STL",
+        "filename_vtk": "Indenter/sphere.vtk",
+        "translation": [4.060, 11.031,  2.1],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, 0]
+      },
+
+      {
+        "name": "sphere3",
+        "filename_stl": "Indenter/sphere.STL",
+        "filename_vtk": "Indenter/sphere.vtk",
+        "translation": [ 3.938,6.844, 2.1],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, 0]
+      },
+
+      {
+        "name": "sphere4",
+        "filename_stl": "Indenter/sphere.STL",
+        "filename_vtk": "Indenter/sphere.vtk",
+        "translation": [ -4.125,8.188, 2.1],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, 0]
+      },
+
+      {
+        "name": "sphere5",
+        "filename_stl": "Indenter/sphere.STL",
+        "filename_vtk": "Indenter/sphere.vtk",
+        "translation": [ -4.094,4.526, 2.1],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, 0]
+      },
+
+      {
+        "name": "sphere6",
+        "filename_stl": "Indenter/sphere.STL",
+        "filename_vtk": "Indenter/sphere.vtk",
+        "translation": [ 0.250, 3.469, 2.1],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, 0]
+      },
+
+      {
+        "name": "sphere7",
+        "filename_stl": "Indenter/sphere.STL",
+        "filename_vtk": "Indenter/sphere.vtk",
+        "translation": [ 0.188,5.812, 2.1],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, 0]
+      },
+
+      {
+        "name": "sphere8",
+        "filename_stl": "Indenter/sphere.STL",
+        "filename_vtk": "Indenter/sphere.vtk",
+        "translation": [ 3.406,10.625, 2.1],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, 0]
+      },
+
+      {
+        "name": "sphere9",
+        "filename_stl": "Indenter/sphere.STL",
+        "filename_vtk": "Indenter/sphere.vtk",
+        "translation": [ 0.750, 16.094,2.1],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, 0]
+      },
+
+      {
+        "name": "sphere10",
+        "filename_stl": "Indenter/sphere.STL",
+        "filename_vtk": "Indenter/sphere.vtk",
+        "translation": [ 1.000, 8.938, 2.1],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, 0]
+      },
+
+      {
+        "name": "square1",
+        "filename_stl": "Indenter/square.STL",
+        "filename_vtk": "Indenter/square.vtk",
+        "translation": [ 0.844, 11.250, 2.1],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, 0]
+      },
+
+      {
+        "name": "square2",
+        "filename_stl": "Indenter/square.STL",
+        "filename_vtk": "Indenter/square.vtk",
+        "translation": [ 2.812, 11.688, 2.1],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, 0]
+      },
+
+      {
+        "name": "square3",
+        "filename_stl": "Indenter/square.STL",
+        "filename_vtk": "Indenter/square.vtk",
+        "translation": [ 0.594,11.750, 2.1],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, 45]
+      },
+
+      {
+        "name": "square4",
+        "filename_stl": "Indenter/square.STL",
+        "filename_vtk": "Indenter/square.vtk",
+        "translation": [ -0.031, 9.594,2.1],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, 45]
+      },
+
+      {
+        "name": "edge1",
+        "filename_stl": "Indenter/edge.STL",
+        "filename_vtk": "Indenter/edge.vtk",
+        "translation": [ -0.031, 11.312,2.1],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, 90]
+      },
+
+      {
+        "name": "edge2",
+        "filename_stl": "Indenter/edge.STL",
+        "filename_vtk": "Indenter/edge.vtk",
+        "translation": [ 1.125, 11.469,2.1],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, 0]
+      },
+
+      {
+        "name": "edge3",
+        "filename_stl": "Indenter/edge.STL",
+        "filename_vtk": "Indenter/edge.vtk",
+        "translation": [ 0.062,8.688, 2.1],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, 0]
+      },
+
+      {
+        "name": "edge4",
+        "filename_stl": "Indenter/edge.STL",
+        "filename_vtk": "Indenter/edge.vtk",
+        "translation": [ 0.031,11.969, 2.1],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, 45]
+      },
+
+      {
+        "name": "edge5",
+        "filename_stl": "Indenter/edge.STL",
+        "filename_vtk": "Indenter/edge.vtk",
+        "translation": [3.125, 9.875, 2.1],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, 45]
+      },
+
+      {
+        "name": "edge6",
+        "filename_stl": "Indenter/edge.STL",
+        "filename_vtk": "Indenter/edge.vtk",
+        "translation": [ 0.688, 12.375,2.1],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, 135]
+      },
+
+      {
+        "name": "edge7",
+        "filename_stl": "Indenter/edge.STL",
+        "filename_vtk": "Indenter/edge.vtk",
+        "translation": [ 0.688, 7.875,2.1],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, 0]
+      },
+
+      {
+        "name": "donut1",
+        "filename_stl": "Indenter/donut.STL",
+        "filename_vtk": "Indenter/donut.vtk",
+        "translation": [ 0.125, 9.750, 2.05],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, 0]
+      },
+
+      {
+        "name": "donut2",
+        "filename_stl": "Indenter/donut.STL",
+        "filename_vtk": "Indenter/donut.vtk",
+        "translation": [ 0.125, 3.750, 2.05],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, 0]
+      },
+
+      {
+        "name": "donut3",
+        "filename_stl": "Indenter/donut.STL",
+        "filename_vtk": "Indenter/donut.vtk",
+        "translation": [ 2.125, 9.688, 2.05],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, 0]
+      },
+
+      {
+        "name": "donut4",
+        "filename_stl": "Indenter/donut.STL",
+        "filename_vtk": "Indenter/donut.vtk",
+        "translation": [ 2.188, 8.375, 2.05],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, 0]
+      },
+
+      {
+        "name": "dots1",
+        "filename_stl": "Indenter/dots.STL",
+        "filename_vtk": "Indenter/dots.vtk",
+        "translation": [ 1.5, 9.25, 2.05],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, 0]
+      },
+
+      {
+        "name": "dots2",
+        "filename_stl": "Indenter/dots.STL",
+        "filename_vtk": "Indenter/dots.vtk",
+        "translation": [ -3.375, 9.5, 2.05],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, 0]
+      },
+
+      {
+        "name": "dots3",
+        "filename_stl": "Indenter/dots.STL",
+        "filename_vtk": "Indenter/dots.vtk",
+        "translation": [ -1.0, 6.25, 2.05],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, 0]
+      },
+
+      {
+        "name": "line1",
+        "filename_stl": "Indenter/line.STL",
+        "filename_vtk": "Indenter/line.vtk",
+        "translation": [ 0, 8.5, 2.05],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, 0]
+      },
+
+      {
+        "name": "line2",
+        "filename_stl": "Indenter/line.STL",
+        "filename_vtk": "Indenter/line.vtk",
+        "translation": [ 1.9, 0.0, 2.05],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, 90]
+      },
+
+      {
+        "name": "line3",
+        "filename_stl": "Indenter/line.STL",
+        "filename_vtk": "Indenter/line.vtk",
+        "translation": [ 0, 9.312, 2.05],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, -45]
+      },
+
+      {
+        "name": "line4",
+        "filename_stl": "Indenter/line.STL",
+        "filename_vtk": "Indenter/line.vtk",
+        "translation": [ 0, 7.812, 2.05],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, 45]
+      },
+
+      {
+        "name": "line5",
+        "filename_stl": "Indenter/line.STL",
+        "filename_vtk": "Indenter/line.vtk",
+        "translation": [ 0, 2.438, 2.05],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, 0]
+      },
+
+      {
+        "name": "maze1",
+        "filename_stl": "Indenter/maze.STL",
+        "filename_vtk": "Indenter/maze.vtk",
+        "translation": [ 0.25, 10.2, 2.05],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, 90]
+      },
+
+      {
+        "name": "maze2",
+        "filename_stl": "Indenter/maze.STL",
+        "filename_vtk": "Indenter/maze.vtk",
+        "translation": [ -1.38, 7.06, 2.05],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, 45]
+      },
+
+      {
+        "name": "maze3",
+        "filename_stl": "Indenter/maze.STL",
+        "filename_vtk": "Indenter/maze.vtk",
+        "translation": [ -0.188, 7.562, 2.05],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, 90]
+      },
+
+      {
+        "name": "maze4",
+        "filename_stl": "Indenter/maze.STL",
+        "filename_vtk": "Indenter/maze.vtk",
+        "translation": [ 0.125, 8.688, 2.05],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, -45]
+      },
+
+      {
+        "name": "maze5",
+        "filename_stl": "Indenter/maze.STL",
+        "filename_vtk": "Indenter/maze.vtk",
+        "translation": [ 1.25, 7.375, 2.05],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, 90]
+      },
+
+      {
+        "name": "point8",
+        "filename_stl": "Indenter/round.STL",
+        "filename_vtk": "Indenter/round.vtk",
+        "translation": [ -0.5, 7.375, 2.05],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, 0]
+      },
+
+      {
+        "name": "point9",
+        "filename_stl": "Indenter/round.STL",
+        "filename_vtk": "Indenter/round.vtk",
+        "translation": [ -0.375, 15.062, 2.05],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, 0]
+      },
+
+      {
+        "name": "point10",
+        "filename_stl": "Indenter/round.STL",
+        "filename_vtk": "Indenter/round.vtk",
+        "translation": [ 0.188, 5.75, 2.05],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, 0]
+      },
+
+      {
+        "name": "pyramid1",
+        "filename_stl": "Indenter/pyramid.STL",
+        "filename_vtk": "Indenter/pyramid.vtk",
+        "translation": [ -0.625, 11.25, 2.05],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, 180]
+      },
+
+      
+      {
+        "name": "pyramid2",
+        "filename_stl": "Indenter/pyramid.STL",
+        "filename_vtk": "Indenter/pyramid.vtk",
+        "translation": [ -0.625, 12.438, 2.05],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, 180]
+      },
+
+      
+      {
+        "name": "pyramid3",
+        "filename_stl": "Indenter/pyramid.STL",
+        "filename_vtk": "Indenter/pyramid.vtk",
+        "translation": [ -3.125, 9.562, 2.05],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, -90]
+      },
+
+      
+      {
+        "name": "pyramid4",
+        "filename_stl": "Indenter/pyramid.STL",
+        "filename_vtk": "Indenter/pyramid.vtk",
+        "translation": [ 2.750, 9.875, 2.05],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, -90]
+      },
+
+      
+      {
+        "name": "pyramid5",
+        "filename_stl": "Indenter/pyramid.STL",
+        "filename_vtk": "Indenter/pyramid.vtk",
+        "translation": [ 0.0, 8.688, 2.05],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, -45]
+      },
+
+      
+      {
+        "name": "texture1",
+        "filename_stl": "Indenter/texture.STL",
+        "filename_vtk": "Indenter/texture.vtk",
+        "translation": [ 0.750, 10.312, 2.05],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, 0]
+      },
+
+      {
+        "name": "texture2",
+        "filename_stl": "Indenter/texture.STL",
+        "filename_vtk": "Indenter/texture.vtk",
+        "translation": [ 3.250, 10.312, 2.05],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, 0]
+      },
+
+      {
+        "name": "texture3",
+        "filename_stl": "Indenter/texture.STL",
+        "filename_vtk": "Indenter/texture.vtk",
+        "translation": [ 1.0, 9.25, 2.05],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, -45]
+      },
+
+      {
+        "name": "texture4",
+        "filename_stl": "Indenter/texture.STL",
+        "filename_vtk": "Indenter/texture.vtk",
+        "translation": [ -0.43, 6.25, 2.05],
+        "scale": [0.001, 0.001, 0.001],
+        "orientation": [0, 0, -99]
+      }
+
+      
+]

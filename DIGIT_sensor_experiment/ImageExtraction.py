@@ -4,12 +4,10 @@ import numpy as np
 
 # Paths 
 indenter_name= 'edge7'
-video_path = f"E:\Second WorkSpace\Topic3\DIGIT_exp\EditedVideos\{indenter_name}.mp4"
-output_dir = f"E:\Second WorkSpace\Topic3\DIGIT_exp\output\{indenter_name}"
+video_path = f"DIGIT_sensor_experiment\EditedVideos\{indenter_name}.mp4"
+output_dir = f"DIGIT_sensor_experiment\ImageFrames\{indenter_name}"
 
-# Create output directory if it doesn't exist
 os.makedirs(output_dir, exist_ok=True)
-
 # Load the video
 cap = cv2.VideoCapture(video_path)
 total_frames = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))

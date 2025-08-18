@@ -12,8 +12,8 @@ origin_px = (0, 120)  # (x, y)
 
 # Load image
 project_dir = os.path.dirname(os.path.abspath(__file__))
-indenter_name= 'edge6'
-image_name = f"output\{indenter_name}\{indenter_name}_90.jpg"
+indenter_name= 'edge7'
+image_name = f"ImageFrames\{indenter_name}\{indenter_name}_99.jpg"
 image_path = os.path.join(project_dir, image_name)
 
 img = cv2.imread(image_path)
