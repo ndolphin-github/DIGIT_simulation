@@ -39,7 +39,7 @@ from huggingface_hub import hf_hub_download
 nodal_data = hf_hub_download(repo_id="Ndolphin/DIGIT_simulation", filename="datasets/NodalDataOutput.zip", repo_type="dataset")
 ```
 
-## 🎯 Overview
+## Overview
 
 This repository contains a complete pipeline for DIGIT tactile sensor simulation and analysis, including:
 
@@ -48,7 +48,7 @@ This repository contains a complete pipeline for DIGIT tactile sensor simulation
 - **Rendering Network**: Physical-to-visual delta image synthesis using UNetSmall
 - **Sensor Experiments**: Real DIGIT sensor data collection and processing
 
-## 🏗️ Architecture
+## Architecture
 
 ### 1. **Perception Network** (Visual → Physical)
 - **Input**: RGB delta images (320×240×3)
@@ -70,7 +70,7 @@ This repository contains a complete pipeline for DIGIT tactile sensor simulation
 - Contact simulation with various indenters
 - Nodal displacement data generation
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 DIGIT_simulation/
@@ -96,7 +96,7 @@ DIGIT_simulation/
 └── requirements.txt                   # Python dependencies
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Installation
 
@@ -140,7 +140,7 @@ python ContactTest_single.py  # Single contact simulation
 python ContactTest_in_loop.py # Batch simulation
 ```
 
-## 📊 Data Format
+## Data Format
 
 ### Dataset Structure
 The complete dataset is available at: **[Hugging Face DIGIT Simulation Dataset](https://huggingface.co/datasets/Ndolphin/DIGIT_simulation/tree/main/datasets)**
@@ -207,7 +207,7 @@ mask_img = Image.open("hammar_000_mask.jpg")
 mask_array = np.array(mask_img) > 0  # Binary mask
 ```
 
-## 🔧 Model Details
+## Model Details
 
 ### Hyperparameters
 
@@ -233,7 +233,7 @@ loss = MSE(predicted_dz, target_dz)  # Focus on displacement only
 loss = contact_loss + 0.1 * background_loss + 0.02 * neutrality_loss
 ```
 
-## ⚡ Performance
+## Performance
 
 ### Inference Speed (RTX 5090)
 - **Perception Network**: ~0.35ms per image (FP32), ~0.22ms (FP16)
@@ -259,9 +259,9 @@ The framework enables:
 - **Material Science**: Analysis of contact mechanics and deformation
 - **Human-Computer Interaction**: Natural touch interfaces
 
-## 📚 Citation
+##  Citation
 
-If you use this work in your research, please cite:
+<!-- If you use this work in your research, please cite:
 
 ```bibtex
 @article{digit_simulation_2025,
@@ -271,26 +271,16 @@ If you use this work in your research, please cite:
   year={2025},
   note={Available at: https://github.com/ndolphin-github/DIGIT_simulation}
 }
-```
+``` -->
 
-## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - SOFA Framework for FEM simulation capabilities
-- PyTorch team for the deep learning framework
-- Contributors to the tactile sensing research community
 
-## 📞 Contact
+
+## Contact
 
 For questions and support, please open an issue on GitHub or contact [ndolphin93@gmail.com].
 
----
-
-⭐ **Star this repository if you find it useful!**
