@@ -6,7 +6,7 @@
 
 A comprehensive simulation and deep learning framework for DIGIT tactile sensors, featuring bidirectional neural networks for physical-visual mapping and advanced perception capabilities.
 
-## 📊 **Dataset**
+## **Dataset**
 
 The complete dataset for this project is available on Hugging Face:
 
@@ -244,20 +244,7 @@ loss = contact_loss + 0.1 * background_loss + 0.02 * neutrality_loss
 - **Perception Network**: ~500K-1M parameters
 - **Rendering Network**: ~200K parameters (lightweight design)
 
-## 📈 Results
 
-The framework enables:
-- **High-fidelity** tactile simulation and reconstruction
-- **Real-time** inference capabilities
-- **Bidirectional** mapping between physical and visual domains
-- **Robust** generalization to unseen objects and contact scenarios
-
-## 🔬 Research Applications
-
-- **Tactile Sensing**: Enhanced understanding of touch-based perception
-- **Robotics**: Improved manipulation through tactile feedback
-- **Material Science**: Analysis of contact mechanics and deformation
-- **Human-Computer Interaction**: Natural touch interfaces
 
 ##  Citation
 
