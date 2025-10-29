@@ -247,7 +247,7 @@ loss = contact_loss + 0.1 * background_loss + 0.02 * neutrality_loss
 
 
 ##  Citation
-
+"Bidirectional Mapping Between Physical Contacts and Visual Tactile Images for Physics-based Simulation," T. Hong and Y.-L. Park, Proceedings of the IEEE-RAS International Conference on Humanoid Robots, 2025.
 <!-- If you use this work in your research, please cite:
 
 ```bibtex
@@ -270,4 +270,5 @@ loss = contact_loss + 0.1 * background_loss + 0.02 * neutrality_loss
 ## Contact
 
 For questions and support, please open an issue on GitHub or contact [ndolphin93@gmail.com].
+
 
