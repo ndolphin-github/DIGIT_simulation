@@ -13,16 +13,16 @@ The complete dataset for this project is available on Hugging Face:
 🔗 **[DIGIT Simulation Dataset](https://huggingface.co/datasets/Ndolphin/DIGIT_simulation/tree/main/datasets)**
 
 ### Dataset Contents:
-- **NodalDataOutput.zip**: CSV files containing nodal displacement data [x, y, dz] from FEM simulations
+- **NodalDataOutput.zip**: CSV files containing nodal displacement data [x, y, z] from FEM simulations
 - **DeltaImages_100x75.zip**: RGB delta images (100×75 resolution) showing tactile sensor changes
 - **ContactMasks_100x75.zip**: Binary contact masks indicating interaction regions
 
 ### Dataset Statistics:
-- **Sensors**: 3 different DIGIT sensors (D21119, D21242, D21273)
-- **Objects**: 7+ different objects (hammar, mug, Rabit_L, Rabit_R, scissor, soupcan, stamp)
+- **Sensors**: 4 different DIGIT sensors 
+- **Objects**: 20 different shapes of indenters 
 - **Time Steps**: ~100 interaction sequences per object
-- **Total Samples**: ~150+ paired CSV-image samples for training
-- **Test Data**: 8 unseen object configurations (id1-id8) with 100 steps each
+- **Total Samples**: 50000 paired CSV-image samples for training
+- **Test Data**: YCB unseen objects and additional unseen indenter configurations with 100 steps each
 
 ### Usage:
 ```python
@@ -177,7 +177,7 @@ DIGIT_simulation_dataset/
 ```
 
 ### Input Data
-- **CSV Files**: Nodal displacement data with columns [x, y, dz]
+- **CSV Files**: Nodal displacement data with columns [x, y, z]
 - **RGB Images**: Delta images showing tactile sensor changes
 - **Contact Masks**: Binary masks indicating contact regions
 
@@ -270,5 +270,6 @@ loss = contact_loss + 0.1 * background_loss + 0.02 * neutrality_loss
 ## Contact
 
 For questions and support, please open an issue on GitHub or contact [ndolphin93@gmail.com].
+
 
 
